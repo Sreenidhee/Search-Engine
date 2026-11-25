@@ -1,4 +1,4 @@
-# Agentic Search Engine
+# Search Engine
 
 An AI-powered search assistant that combines a language model with web search tools to answer user queries using up-to-date information. The application supports conversational interactions, maintains chat history during a session, and uses tool-calling to retrieve relevant information from the web before generating responses.
 
