@@ -2,11 +2,7 @@
 
 An AI-powered search assistant that combines a language model with web search tools to answer user queries using up-to-date information. The application supports conversational interactions, maintains chat history during a session, and uses tool-calling to retrieve relevant information from the web before generating responses.
 
-**GitHub Repository:**  
-https://github.com/pranayprasad7001/generative-ai-projects/tree/main/langchain-projects/agentic-search-engine
 
-**Live Demo:**  
-https://agentic-search-engine-with-exa.streamlit.app/
 
 ---
 
